@@ -1,2 +1,2 @@
-# Manunthon Atikankhotchasee (Pie)
+# Pie
 ## Chess Teacher and Legal Counsel
